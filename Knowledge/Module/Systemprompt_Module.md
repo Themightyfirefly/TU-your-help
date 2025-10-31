@@ -21,3 +21,4 @@ Der hier angegebene Name muss ein Nachname sein. Mit folgendem Link suchen wir a
 https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/suchen.html?text=&modulversionGueltigkeitSemester=75&modulbeschreibungVerantwortlich=H%C3%B6nig
 Wie man sieht wird hierbei der Umlaut ö mit %C3%B6 ersetzt.
 
+
